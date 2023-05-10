@@ -1,0 +1,377 @@
+/*
+	@name desktop___2
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#bg1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(128,128,128,1);
+}
+
+
+#nav {
+	top: 63px;
+	left: 0px;
+	width: 1440px;
+	height: 194px;
+	background: green;
+}
+
+#menu {
+	top: 122px;
+	left: 168px;
+	width: 1137px;
+	height: 81px;
+}
+
+#rectangle_7___button {
+	top: 0px;
+	left: 0px;
+	width: 176px;
+	height: 81px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background: gray;
+}
+
+
+#_pengumuman___button {
+	top: 22px;
+	left: 510px;
+	width: 193px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#_amr_web___button {
+	top: 22px;
+	left: 25px;
+	width: 128px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#_panduan___button {
+	top: 22px;
+	left: 821px;
+	width: 128px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#login___button {
+	top: 22px;
+	left: 1067px;
+	width: 83px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#guy_and_girl_students {
+	top: 384px;
+	left: 1026px;
+	width: 255px;
+	height: 456px;
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 63px;
+	background:rgba(128,128,128,1);
+}
+
+#lainya {
+	top: 19px;
+	left: 1089px;
+	width: 216px;
+	height: 24px;
+}
+
+#facebook {
+	top: 0px;
+	left: 99px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#instagram_old {
+	top: 0px;
+	left: 130px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#youtube_squared {
+	top: 0px;
+	left: 192px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#twitter_circled {
+	top: 0px;
+	left: 161px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#follow_us__ {
+	top: 0px;
+	left: 0px;
+	width: 104px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#login_regis {
+	top: 338px;
+	left: 277px;
+	width: 375px;
+	height: 617px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 617px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(255,255,255,1);
+}
+
+
+#user_male {
+	top: 143px;
+	left: 106px;
+	width: 164px;
+	height: 164px;
+}
+
+#masuk___button {
+	top: 476px;
+	left: 114px;
+	width: 148px;
+	height: 37px;
+}
+
+#ktk_masuk___button {
+	top: 0px;
+	left: 0px;
+	width: 148px;
+	height: 37px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(128,128,128,1);
+}
+
+
+#masuk___button_ek1 {
+	top: 6px;
+	left: 47px;
+	width: 75px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ktk_pw___input {
+	top: 403px;
+	left: 32px;
+	width: 312px;
+	height: 50px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(217,217,217,1);
+}
+
+
+#lock {
+	top: 410px;
+	left: 62px;
+	width: 37px;
+	height: 37px;
+}
+
+
+#password___input {
+	top: 416px;
+	left: 145px;
+	width: 101px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#867F7F;
+}
+
+
+#ktk_user___input {
+	top: 330px;
+	left: 32px;
+	width: 312px;
+	height: 50px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(217,217,217,1);
+}
+
+
+#user_male_ek1 {
+	top: 337px;
+	left: 62px;
+	width: 37px;
+	height: 37px;
+}
+
+
+#username___input {
+	top: 343px;
+	left: 145px;
+	width: 106px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#867F7F;
+}
+
+
+#rectangle_5 {
+	top: 24px;
+	left: 32px;
+	width: 312px;
+	height: 45px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_6 {
+	top: 24px;
+	left: 32px;
+	width: 163px;
+	height: 45px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(128,128,128,1);
+}
+
+
+#login___button_ek1 {
+	top: 34px;
+	left: 81px;
+	width: 71px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFCFC;
+}
+
+
+#_registrasi___button {
+	top: 34px;
+	left: 228px;
+	width: 104px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

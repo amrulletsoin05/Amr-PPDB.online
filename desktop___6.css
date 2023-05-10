@@ -1,0 +1,375 @@
+/*
+	@name desktop___6
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___6 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#bg1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(128,128,128,1);
+}
+
+
+#nav {
+	top: 63px;
+	left: 0px;
+	width: 1440px;
+	height: 194px;
+	background: green;
+}
+
+#menu {
+	top: 122px;
+	left: 168px;
+	width: 1137px;
+	height: 81px;
+}
+
+#rectangle_7___button {
+	top: 0px;
+	left: 0px;
+	width: 176px;
+	height: 81px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background: grey;
+}
+
+
+#_pengumuman___button {
+	top: 22px;
+	left: 510px;
+	width: 193px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#_amr_web___button {
+	top: 22px;
+	left: 25px;
+	width: 128px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#_panduan___button {
+	top: 22px;
+	left: 821px;
+	width: 128px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#_login___button {
+	top: 22px;
+	left: 1067px;
+	width: 83px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+#lainya {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 63px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 63px;
+	background:rgba(128,128,128,1);
+}
+
+
+#facebook {
+	top: 19px;
+	left: 1188px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#instagram_old {
+	top: 19px;
+	left: 1219px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#youtube_squared {
+	top: 19px;
+	left: 1281px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#twitter_circled {
+	top: 19px;
+	left: 1250px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#follow_us__ {
+	top: 19px;
+	left: 1089px;
+	width: 104px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#kontak_kami {
+	top: 316px;
+	left: 640px;
+	width: 189px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ktk_ {
+	top: 435px;
+	left: 99px;
+	width: 1286px;
+	height: 569px;
+	background:rgba(255,255,255,1);
+}
+
+
+#nm___input {
+	top: 499px;
+	left: 152px;
+	width: 397px;
+	height: 28px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#amrul_letsoin {
+	top: 501px;
+	left: 158px;
+	width: 115px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9696;
+}
+
+
+#nama__ {
+	top: 475px;
+	left: 152px;
+	width: 84px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#e___input {
+	top: 556px;
+	left: 152px;
+	width: 397px;
+	height: 28px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#email__ {
+	top: 532px;
+	left: 152px;
+	width: 78px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#amrulletsoin_gmail_com {
+	top: 558px;
+	left: 158px;
+	width: 199px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9696;
+}
+
+
+#sbjk___input {
+	top: 613px;
+	left: 152px;
+	width: 397px;
+	height: 28px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#subjek__ {
+	top: 589px;
+	left: 152px;
+	width: 88px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#informasi_penerimaan_siswa_baru {
+	top: 615px;
+	left: 158px;
+	width: 258px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9696;
+}
+
+
+#psn___input {
+	top: 673px;
+	left: 152px;
+	width: 739px;
+	height: 263px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#pesan__ {
+	top: 649px;
+	left: 152px;
+	width: 83px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_27___button {
+	top: 499px;
+	left: 922px;
+	width: 414px;
+	height: 435px;
+}
+
+#dftr___button {
+	top: 944px;
+	left: 152px;
+	width: 148px;
+	height: 37px;
+}
+
+#ktk_krm___button {
+	top: 0px;
+	left: 0px;
+	width: 148px;
+	height: 37px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background: green;
+}
+
+
+#krm___button {
+	top: 6px;
+	left: 47px;
+	width: 64px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

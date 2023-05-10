@@ -1,0 +1,332 @@
+/*
+	@name desktop___5
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___5 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#bg1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(128,128,128,1);
+}
+
+
+#nav {
+	top: 63px;
+	left: 0px;
+	width: 1440px;
+	height: 194px;
+	background: green;
+}
+
+#menu {
+	top: 122px;
+	left: 168px;
+	width: 1137px;
+	height: 81px;
+}
+
+#rectangle_7___button {
+	top: 0px;
+	left: 0px;
+	width: 176px;
+	height: 81px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background: grey;
+}
+
+
+#_pengumuman___button {
+	top: 22px;
+	left: 510px;
+	width: 193px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#_amr_web___button {
+	top: 22px;
+	left: 25px;
+	width: 128px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#panduan___button {
+	top: 22px;
+	left: 821px;
+	width: 128px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+
+#_login___button {
+	top: 22px;
+	left: 1067px;
+	width: 83px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+#kalimat {
+	top: 802px;
+	left: 168px;
+	width: 349px;
+	height: 80px;
+}
+#kontk___button {
+	top: 27px;
+	left: 95px;
+	width: 75px;
+	height: 24px;
+}
+
+#rectangle_28 {
+	top: 5px;
+	left: 0px;
+	width: 75px;
+	height: 19px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(217,217,217,1);
+}
+
+.kontak {
+	top: 0px;
+	left: 11px;
+	width: 78px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+	background: none;
+	border: none;
+}
+
+.kontak a{
+	list-style: none;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+#perlu_bantuan__ {
+	top: 0px;
+	left: 0px;
+	width: 147px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#silakan_klik_atau_petugas_admin_registrasi_dibawah_ini__ {
+	top: 32px;
+	left: 0px;
+	width: 370px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+#kontak___button {
+	top: 900px;
+	left: 168px;
+	width: 203px;
+	height: 44px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 203px;
+	height: 44px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(217,217,217,1);
+}
+
+.kontak___button {
+	top: 900px;
+	left: 168px;
+	width: 203px;
+	height: 44px;
+	text-align: left;
+}
+
+.ppdb_online {
+	padding: 10px 50px;
+	border-radius: 20px;
+	font-family: Poppins;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: bold;
+	color:white;
+	background-color: green;
+}
+
+.ppdb_online a{
+    color: white;
+    text-decoration: none;
+}
+
+#whatsapp {
+	top: 2px;
+	left: 16px;
+	width: 36px;
+	height: 44px;
+}
+
+
+#lainya {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 63px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 63px;
+	background:rgba(128,128,128,1);
+}
+
+
+#facebook {
+	top: 19px;
+	left: 1188px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#instagram_old {
+	top: 19px;
+	left: 1219px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#youtube_squared {
+	top: 19px;
+	left: 1281px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#twitter_circled {
+	top: 19px;
+	left: 1250px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#follow_us__ {
+	top: 19px;
+	left: 1089px;
+	width: 104px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#panduan_pendaftaran {
+	top: 332px;
+	left: 583px;
+	width: 303px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#proses_penerimaan_peserta_didik_baru__ppdb__melalui_beberapa_tahap_yaitu___1__membuat_akun_disitu_ppdb_online_klik_menu__login__dan_akan_muncul_halaman__login_registrasi___teman_teman_klik_tombol__registrasi__untuk_mendaftar_akun_terlebih_dahulu_dengan_mengisi_data_yang_diminta_yaitu___nama_lengkap__email_dan_paswword__yang_mudah_diingat__lalu_klik_tombol__daftar___2__mingisi_formulir_pendaftaran_mengisi_formulir_sesuai_yang_diminta_3__meng_upload_berkas_pendaftaran_meng_upload_berkas_sesuai_yang_diminta_4__mencetak_bukti_formulir_pendaftaran_mencetal_bukti_formulir_yang_sudah_diisi {
+	top: 420px;
+	left: 178px;
+	width: 1071.5px;
+	height: 229.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
